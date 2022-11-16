@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # simple_shell
 List of allowed functions and system calls
 access (man 2 access)
@@ -35,3 +36,12 @@ write (man 2 write)
 moha-mame
 <br><br>
 Henok Belachew
+=======
+## Sprint - 1 final projects.
+<br>
+Authors:
+<br>
+Mohammed Kedir
+<br>
+Henok Belachew
+>>>>>>> ecea12d61c7d3aeed1f21dc36dfe2ed8d21926d1
