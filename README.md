@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # simple_shell
 List of allowed functions and system calls
 access (man 2 access)
@@ -32,11 +31,7 @@ waitpid (man 2 waitpid)
 wait3 (man 2 wait3)
 wait4 (man 2 wait4)
 write (man 2 write)
-# Authors & Copyrights
-moha-mame
-<br><br>
-Henok Belachew
-=======
+
 ## Sprint - 1 final projects.
 <br>
 Authors:
@@ -44,4 +39,3 @@ Authors:
 Mohammed Kedir
 <br>
 Henok Belachew
->>>>>>> ecea12d61c7d3aeed1f21dc36dfe2ed8d21926d1
